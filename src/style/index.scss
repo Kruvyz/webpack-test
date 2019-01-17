@@ -7,6 +7,6 @@ h1 {
     border-radius: 10px;
 }
 
-.qwe {
-    background: linear-gradient(to bottom, white, black);
+::placeholder {
+    color: gray;
 }
